@@ -34,7 +34,7 @@ Hi, This repository consists the project Stock Prediction where I have predicted
   • MSE = 7.5
   • RMSE = 2.75
   • MAPE = 1.37
-  • R2 = 0.97
+  • R2 = 0.94
 
 _**Predicting the next 30 days values + After predicting the value’s we are then plotting a graph to visualize the data more
 clearly.**_
